@@ -8,8 +8,10 @@ Thumbs.db
 *.swp
 *~
 
-# Local IDE / tool mirrors (canonical agent manifest: .agents/ when present)
+# Local IDE / tool mirrors (canonical source: .agents/). Recreate via .agents/guides/setup.md
 .cursor/
+.github/skills
+.github/agents
 
 # C / C++
 *.o
